@@ -6,7 +6,7 @@ Saving notes to articles I read and found interesting
 - Data Science
 - Machine Learning
 - Science and Technology
-- self-improvement
+- Productivity Hacks
 
 ## Remarks
 
