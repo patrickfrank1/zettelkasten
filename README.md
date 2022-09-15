@@ -12,6 +12,13 @@ Of course it contains summaries for now, so the content is not original. I might
 
 ## Articles in reverse chronological order
 
+2022-09-15:
+
+- [Earn with your mind not with your time](./career/20220915_earn_with_your_mind_not_your_time.md)
+- [Don't compare yourself to other people](./productivity/20220915_dont_compare_yourself_to_other_people.md)
+- [Status games](./productivity/20220915_status_games.md)
+- [One of the most valuable and underrated skills... consistency](./productivity/20220915_underrated_skills_consistency.md)
+
 2022-09-07:
 
 - [Second order thinking](./productivity/20220907_second_order_thinking.md)
