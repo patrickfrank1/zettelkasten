@@ -12,6 +12,11 @@ Of course it contains summaries for now, so the content is not original. I might
 
 ## Articles in reverse chronological order
 
+2022-09-17:
+
+- [Lessons learned as a data scientist](./data_science/20220917_lessons_learned_as_data_scientist.md)
+- [Soft skills for data scientists](./data_science/20220917_soft_skills_for_data_scientists.md)
+
 2022-09-15:
 
 - [Earn with your mind not with your time](./career/20220915_earn_with_your_mind_not_your_time.md)
