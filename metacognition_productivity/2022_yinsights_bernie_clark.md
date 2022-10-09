@@ -10,7 +10,7 @@ A journey into the Philosophy & Practice of Yin Yoga by Bernie Clark
 
 ## Introducing Yinsights
 
-- metaphor yang mountain and yin river: two complementary styles of practicing yoga nad meditation
+metaphor yang mountain and yin river: two complementary styles of practicing yoga and meditation
 
 ## Chapter 1: What is Yin Yoga?
 
@@ -26,6 +26,8 @@ A journey into the Philosophy & Practice of Yin Yoga by Bernie Clark
 
 ![Yin and Yang](../src/20221009_yin_and_yang.png)
 
+Philosophy:
+
 - patterns of life are formed by contrast
 - harmony and health are created when contrasting aspects are in balance
 - the middle point "Dao" is the tranquility found in the center of all events
@@ -35,7 +37,17 @@ A journey into the Philosophy & Practice of Yin Yoga by Bernie Clark
 - yin in chinese = shady side of a hill or stream
 
 Yin: dark, cold, passive, inside, solid, slow, right, dim, downward, substance, water, matter, mysterious, female, moon, night, earth, even, dragon
+
 Yang: light, hot, active, outside, hollow, rapid, left, bright, upward, function, fire, energy, obvious, male, sun, day, heaven, odd, tiger
 
-Yin Contains Yang:
+1. Yin Contains Yang:
 
+- white dot within paisley swirl
+- yin contains yang, and also yin is always found within yang
+- in yoga practice, even in yang style asanas we carefully watch our breath which is a yin aspect
+
+2. Yin Becomes Yang:
+
+- yin becomes yang, and yang transforms into yin
+- transformation can be slow or rapid
+- 
