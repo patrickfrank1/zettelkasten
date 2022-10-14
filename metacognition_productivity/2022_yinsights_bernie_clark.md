@@ -7,6 +7,10 @@ A journey into the Philosophy & Practice of Yin Yoga by Bernie Clark
   - [Chapter 1: What is Yin Yoga?](#chapter-1-what-is-yin-yoga)
     - [How does it work?](#how-does-it-work)
     - [Yin and Yang](#yin-and-yang)
+    - [Yin tissues and yang tissues](#yin-tissues-and-yang-tissues)
+    - [The theory of exercise](#the-theory-of-exercise)
+  - [Chapter 2: The History of Yin Yoga](#chapter-2-the-history-of-yin-yoga)
+    - [Origins](#origins)
 
 ## Introducing Yinsights
 
@@ -50,4 +54,53 @@ Yang: light, hot, active, outside, hollow, rapid, left, bright, upward, function
 
 - yin becomes yang, and yang transforms into yin
 - transformation can be slow or rapid
-- 
+- e.g. how seasons seamlessly transform into each other, e wake up in the morning, work long weeks for a long time (yang), suddenly become sick and have to rest (yin)
+
+3. Yin Controls Yang:
+
+- if we become unbalanced for too long, the universe restores balance
+- if do do not take care of balancing yin and yang the transition can be quick and devastating
+
+### Yin tissues and yang tissues
+
+- these term are to be understood in relative terms (as always)
+- Yang tissues: muscles (elastic, hot), blood, skin
+- Yin tissues: ligaments (cool), bones (plastic), joints
+- but not absolute: muscles are yin in terms of water content, and ligaments would be yang in terms of water content
+
+- Yang styles of yoga:
+  - stress the fiber of the muscles, this is not appropriate for ligaments and joints
+  - designed not to stress the joints
+  - align body before assanas
+- Yin styles of yoga:
+  - apply gentler pressure to the plastic tissues for a longer period of time
+  - create space and strength in the joints
+
+### The theory of exercise
+
+- always: must stress the tissue first (yang), then allow it to rest and recover (yin)
+- **do not apply yang exercise techniques to yin tissues**
+
+## Chapter 2: The History of Yin Yoga
+
+- Paul Grilley popularized it (in the West) based on the work of three guides
+  - Dr. Garry Parker (taught him anatomy)
+  - Paulie Zink (taught him daoist yoga)
+  - Dr. Hiroshi Motoyama (reminded him of yogas greater purpose)
+
+### Origins
+
+- many documents written thousands of years ago
+  - Hatha Yoga Pradipika
+  - Gheranda Samhita
+  - Yoga Sutra
+  - Indian Vedas
+- none of them were meant to be read alone
+  - require guidance from a guru
+  - books were used like notes
+  - most knowledge was deliberately kept hidden
+- purpose of the yoga practice was to prepare the student for meditation
+  - when we are still and undistracted by bodily sensations, meditaion can arise
+  - 
+
+
