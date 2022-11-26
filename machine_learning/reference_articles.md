@@ -2,7 +2,17 @@
 
 ## Explainable AI
 
-- The Disagreement Problem: <https://arxiv.org/abs/2202.01602>
+- The Disagreement Problem
+  - <https://arxiv.org/abs/2202.01602>
+- LIME
+  - <https://towardsdatascience.com/lime-explain-machine-learning-predictions-af8f18189bfe>
+- SHAP
+  - <https://towardsdatascience.com/introduction-to-shap-values-and-their-application-in-machine-learning-8003718e6827>
+
+## Feature selection
+
+- Filter based methods (literature review)
+  - <https://towardsdatascience.com/feature-selection-for-the-lazy-data-scientist-c31ba9b4ee66>
 
 ## Neural networks
 
