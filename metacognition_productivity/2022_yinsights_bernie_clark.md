@@ -100,7 +100,14 @@ Yang: light, hot, active, outside, hollow, rapid, left, bright, upward, function
   - books were used like notes
   - most knowledge was deliberately kept hidden
 - purpose of the yoga practice was to prepare the student for meditation
-  - when we are still and undistracted by bodily sensations, meditaion can arise
-  - 
-
-
+  - yoga means discipline
+  - when still and undistracted by bodily sensations, meditation can arise
+  - in meditative state realization and liberation can arise
+- hatha yoga
+  - build strong, healthy body, that allows yogi to meditate for many hours
+  - describes only 16 asanas
+  - lotus pose (padmasana) is recommended for pranayama breathing
+- by the time of the british raj asanas were blended with gymnastics, wrestling and other yang like exercises
+  - yoga practice moved away from seated yin-like poses
+  - focusing more on strength
+  
